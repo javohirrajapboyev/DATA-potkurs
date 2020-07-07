@@ -1,0 +1,15 @@
+*{
+    
+    box-sizing: border-box;
+}
+.box-1, .box-2{
+    color: red;
+    background-color: yellow;
+    width: 50%;
+    float: left;
+    border: 3px solid blue ;
+}
+img{
+    width: 50%;
+    float: left;
+}

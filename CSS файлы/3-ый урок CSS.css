@@ -1,0 +1,15 @@
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+   
+    border: 3px solid green;
+}
+img{
+    border: 10px solid gray;
+    border-radius: 12%;
+}
+img:hover{
+    width: 900px;
+}
